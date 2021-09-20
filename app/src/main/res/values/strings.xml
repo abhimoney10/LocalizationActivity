@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocalizationActivity</string>
+    <string name="hello_world_text">Hello World</string>
+    <string name="English_text">English</string>
+    <string name="Chinese_text">Chinese</string>
+    <string name="hindi_text">Hindi</string>
+</resources>
